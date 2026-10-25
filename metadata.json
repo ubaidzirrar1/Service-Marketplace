@@ -1,0 +1,8 @@
+{
+  "name": "Service Marketplace",
+  "description": "A comprehensive global platform connecting local service providers with clients, featuring smart search, interactive maps, and identity verification.",
+  "requestFramePermissions": [
+    "geolocation"
+  ],
+  "majorCapabilities": []
+}
